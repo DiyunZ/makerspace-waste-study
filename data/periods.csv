@@ -1,0 +1,5 @@
+period,days,waste_g,waste_rate_g_per_day,material_used_g,usage_rate_g_per_day,scrap_ratio_pct
+E1-E2,64,26308.3,411.07,,,
+E2-E3,59,3446.0,58.41,64000,1084.75,5.38
+E3-E4,45,1645.0,36.56,43000,955.56,3.83
+E2-E4 overall,104,5091.0,,107000,,4.76

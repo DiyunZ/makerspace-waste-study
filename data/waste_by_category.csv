@@ -1,0 +1,41 @@
+event,date,total_waste_lb,categorized_sample_lb,category,category_lb,category_g,share_of_sample_pct
+E1,"Oct 13, 2025",132.0,17.1596,No physical defect,16.097,7301.5,93.81
+E1,"Oct 13, 2025",132.0,17.1596,Support material,0.2646,120.0,1.54
+E1,"Oct 13, 2025",132.0,17.1596,Unused filament,0.2447,111.0,1.43
+E1,"Oct 13, 2025",132.0,17.1596,Layer shift,0.2447,111.0,1.43
+E1,"Oct 13, 2025",132.0,17.1596,Support removal damage,0.0573,26.0,0.33
+E1,"Oct 13, 2025",132.0,17.1596,Broken parts,0.2513,114.0,1.46
+E1,"Oct 13, 2025",132.0,17.1596,Platform heating,0.0,0.0,0.0
+E1,"Oct 13, 2025",132.0,17.1596,Loose strings,0,0.0,0.0
+E1,"Oct 13, 2025",132.0,17.1596,Printer stops,0,0.0,0.0
+E1,"Oct 13, 2025",132.0,17.1596,Other,0,0.0,0.0
+E2,"Dec 16, 2025",58.0,9.5,No physical defect,7.5864,3441.1,79.86
+E2,"Dec 16, 2025",58.0,9.5,Support material,0.496,225.0,5.22
+E2,"Dec 16, 2025",58.0,9.5,Unused filament,0.0705,32.0,0.74
+E2,"Dec 16, 2025",58.0,9.5,Layer shift,0.0551,25.0,0.58
+E2,"Dec 16, 2025",58.0,9.5,Support removal damage,0.2866,130.0,3.02
+E2,"Dec 16, 2025",58.0,9.5,Broken parts,0.948,430.0,9.98
+E2,"Dec 16, 2025",58.0,9.5,Platform heating,0.0573,26.0,0.6
+E2,"Dec 16, 2025",58.0,9.5,Loose strings,0,0.0,0.0
+E2,"Dec 16, 2025",58.0,9.5,Printer stops,0,0.0,0.0
+E2,"Dec 16, 2025",58.0,9.5,Other,0,0.0,0.0
+E3,"Feb 13, 2026",7.59712052,7.5971,No physical defect,3.4282,1555.0,45.12
+E3,"Feb 13, 2026",7.59712052,7.5971,Support material,0.5181,235.0,6.82
+E3,"Feb 13, 2026",7.59712052,7.5971,Unused filament,1.5521,704.0,20.43
+E3,"Feb 13, 2026",7.59712052,7.5971,Layer shift,0.2161,98.0,2.84
+E3,"Feb 13, 2026",7.59712052,7.5971,Support removal damage,0.0,0.0,0.0
+E3,"Feb 13, 2026",7.59712052,7.5971,Broken parts,0.8157,370.0,10.74
+E3,"Feb 13, 2026",7.59712052,7.5971,Platform heating,0.0,0.0,0.0
+E3,"Feb 13, 2026",7.59712052,7.5971,Loose strings,0.2359,107.0,3.11
+E3,"Feb 13, 2026",7.59712052,7.5971,Printer stops,0.2778,126.0,3.66
+E3,"Feb 13, 2026",7.59712052,7.5971,Other,0.5534,251.0,7.28
+E4,"Mar 30, 2026",3.6265999,3.6266,No physical defect,1.9908,903.0,54.89
+E4,"Mar 30, 2026",3.6265999,3.6266,Support material,0.7253,329.0,20.0
+E4,"Mar 30, 2026",3.6265999,3.6266,Unused filament,0.3704,168.0,10.21
+E4,"Mar 30, 2026",3.6265999,3.6266,Layer shift,0.0948,43.0,2.61
+E4,"Mar 30, 2026",3.6265999,3.6266,Support removal damage,0.2271,103.0,6.26
+E4,"Mar 30, 2026",3.6265999,3.6266,Broken parts,0.108,49.0,2.98
+E4,"Mar 30, 2026",3.6265999,3.6266,Platform heating,0.0,0.0,0.0
+E4,"Mar 30, 2026",3.6265999,3.6266,Loose strings,0.0,0.0,0.0
+E4,"Mar 30, 2026",3.6265999,3.6266,Printer stops,0.1102,50.0,3.04
+E4,"Mar 30, 2026",3.6265999,3.6266,Other,0.0,0.0,0.0
