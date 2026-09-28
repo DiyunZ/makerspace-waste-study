@@ -59,7 +59,7 @@ The studio's volunteers already give print-optimization guidance and cap print l
 
 ## Next phase
 
-Energy monitoring with a DENT ELITEpro XC power logger, comparing Bambu Lab H2D, Bambu Lab P2S, Prusa CORE One+ and Ultimaker S5 printers across preheating, printing, cooling and idle, in Fall 2026. The enclosure design is documented at [printer-energy-monitor-wiring](https://github.com/DiyunZ/printer-energy-monitor-wiring).
+Energy monitoring with a DENT ELITEpro XC power logger, comparing Bambu Lab P2S, Prusa CORE One+ and Ultimaker S5 printers across preheating, printing, cooling and idle, in Fall 2026. The enclosure design is documented at [printer-energy-monitor-wiring](https://github.com/DiyunZ/printer-energy-monitor-wiring).
 
 ## Credits
 
